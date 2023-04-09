@@ -14,8 +14,8 @@ Created by Rezondes
 Dieses Repository stellt eine alt:V-Ressource bereit, um einen einfachen WASTED-Screen, ähnlich wie in GTA Online, anzuzeigen.
 
 ## Installation
-Fügen Sie einfach den Ordner `Wasted` in ihren Serverordner `resources` und den Namen dieser Ressource zu Ihrer `server.toml` hinzu.
+Fügen Sie einfach den Ordner `altv-rezondes-wasted` in ihren Serverordner `resources` und den Namen dieser Ressource zu Ihrer `server.toml` hinzu.
 
 ```
-Wasted
+altv-rezondes-wasted
 ```
